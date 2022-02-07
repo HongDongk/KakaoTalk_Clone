@@ -1,5 +1,9 @@
 .status-bar{
+    position: fixed;
+    top: 0;
+    width:100%;
     display: flex;
     justify-content: space-between;
     padding:5px 5px;
+    box-sizing: border-box;    /*패딩값을줘도 박스사이즈를 그대로 유지시켜주는 것*/
 }
