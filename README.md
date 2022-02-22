@@ -1,2 +1,2 @@
 # Html/Css
-mobiledisplay
+mobile display
